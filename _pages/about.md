@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hello, welcome to my website! I am a third year PhD student in the Department of Statistics at the University of Michigan, and am being advised by Kerby Shedden.
-I am interested in developing statistical tools which can be readily applied by scientists to account for the structure of the problem.
+I am interested in developing statistical tools which can be readily applied by scientists to account for the structure of their problem of interest.
 These tools need to be fast and interpretable to be useful, so my work considers computational and statistical tradeoffs.
 Most of my work has been with applications in biology, but I am interested in working in other sciences as well.
 
@@ -23,7 +23,8 @@ Ph.D. Statistics | expected May 2029
 Ph.D. advisor: Kerby Shedden  
 
 Kansas State University, Manhattan, Kansas  
-M.A. Statistics | May 2024  
+M.S. Statistics | May 2024  
+Master’s report: Fully Bayesian endogenous variable estimation with many instrumental variables.  
 
 Wheaton College, Wheaton, Illinois  
 B.S. Mathematics | May 2022  
@@ -31,8 +32,6 @@ B.S. Mathematics | May 2022
 
 ## Publications  
 - Hayes, D. T., Tawidian, P., Schubert, E., Kang, Q., Sumpter, A. J., & Michel, K. (2025). Larvicidal activity of Trichoderma atroviride (Hypocreales: Hypocreaceae) against Aedes albopictus (Diptera: Culicidae). Journal of Medical Entomology, 62(5), 1253-1264  
-
-- Schubert, E. (2024). Fully Bayesian endogenous variable estimation with many instrumental variables. (Master’s thesis)
 
 ## Awards  
 University of Michigan  
